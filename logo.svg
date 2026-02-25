@@ -1,0 +1,7 @@
+<svg width="180" height="48" viewBox="0 0 180 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="48" height="48" rx="14" fill="#0077FF"/>
+  <path d="M10 30C16 23 21 21 29 21C35 21 39 23 43 26" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M13 19L25 28L35 14" stroke="#BFE3FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="58" y="22" font-family="Poppins, Arial, sans-serif" font-size="17" font-weight="700" fill="#1f2a44">Roamly</text>
+  <text x="58" y="40" font-family="Poppins, Arial, sans-serif" font-size="14" font-weight="500" fill="#0077FF">TRAVEL</text>
+</svg>
